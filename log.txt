@@ -1,0 +1,154 @@
+UserID: 6576406220 | Time: 2024-06-27 05:59:34.262053 | Command: /bgmi | Target: 52.172.232.212 | Port: 19205 | Time: 180
+Username: @Ashu20099
+Target: 52.172.232.212
+Port: 19205
+Time: 180
+
+UserID: 6576406220 | Time: 2024-06-27 06:00:35.536205 | Command: /bgmi | Target: 52.172.232.212 | Port: 19205 | Time: 180
+Username: @Ashu20099
+Target: 52.172.232.212
+Port: 19205
+Time: 180
+
+UserID: 6576406220 | Time: 2024-06-27 14:23:03.406498 | Command: /bgmi | Target: 20.40.43.63 | Port: 11124 | Time: 180
+Username: @Ashu20099
+Target: 20.40.43.63
+Port: 11124
+Time: 180
+
+UserID: 6576406220 | Time: 2024-06-27 14:26:14.397839 | Command: /bgmi | Target: 20.40.43.63 | Port: 11124 | Time: 180
+UserID: 6576406220 | Time: 2024-06-27 14:26:25.764717 | Command: /bgmi | Target: 20.40.43.63 | Port: 11124 | Time: 180
+Username: @Ashu20099
+Target: 20.40.43.63
+Port: 11124
+Time: 180
+
+UserID: 6576406220 | Time: 2024-06-28 11:01:02.733844 | Command: /bgmi | Target: 20.198.111.3 | Port: 27431 | Time: 180
+Username: @Ashu20099
+Target: 20.198.111.3
+Port: 27431
+Time: 180
+
+UserID: 6576406220 | Time: 2024-06-28 11:11:35.123409 | Command: /bgmi | Target: 20.204.19.72 | Port: 11115 | Time: 180
+Username: @Ashu20099
+Target: 20.204.19.72
+Port: 11115
+Time: 180
+
+UserID: 6576406220 | Time: 2024-06-28 14:44:22.785269 | Command: /bgmi | Target: 20.198.75.141 | Port: 11594 | Time: 180
+Username: @Ashu20099
+Target: 20.198.75.141
+Port: 11594
+Time: 180
+
+UserID: 6576406220 | Time: 2024-06-29 08:41:42.315228 | Command: /bgmi | Target: 20.198.75.141 | Port: 11594 | Time: 180
+UserID: 6576406220 | Time: 2024-06-29 08:41:42.315148 | Command: /bgmi | Target: 20.198.75.141 | Port: 11594 | Time: 180
+Username: @Ashu20099
+Target: 20.198.75.141
+Port: 11594
+Time: 180
+
+Username: @Ashu20099
+Target: 20.198.75.141
+Port: 11594
+Time: 180
+
+UserID: 6576406220 | Time: 2024-06-29 10:19:45.350029 | Command: /bgmi | Target: 20.204.39.117 | Port: 27191 | Time: 180
+Username: @Ashu20099
+Target: 20.204.39.117
+Port: 27191
+Time: 180
+
+UserID: 6576406220 | Time: 2024-06-29 10:23:08.049471 | Command: /bgmi | Target: 20.204.39.117 | Port: 27191 | Time: 180
+Username: @Ashu20099
+Target: 20.204.39.117
+Port: 27191
+Time: 180
+
+UserID: 6576406220 | Time: 2024-06-30 10:55:00.598052 | Command: /bgmi | Target: 20.204.155.49 | Port: 11429 | Time: 180
+Username: @Ashu20099
+Target: 20.204.155.49
+Port: 11429
+Time: 180
+
+UserID: 1436266377 | Time: 2024-07-02 08:47:31.705872 | Command: /bgmi | Target: 20.204.188.3 | Port: 10300 | Time: 180
+UserID: 1436266377 | Time: 2024-07-02 08:47:40.105391 | Command: /bgmi | Target: 20.204.188.3 | Port: 10300 | Time: 180
+Username: @nadan_bal
+Target: 20.204.188.3
+Port: 10300
+Time: 180
+
+UserID: 1436266377 | Time: 2024-07-02 10:03:37.220143 | Command: /bgmi | Target: 20.204.20.204 | Port: 10238 | Time: 180
+Username: @nadan_bal
+Target: 20.204.20.204
+Port: 10238
+Time: 180
+
+UserID: 1436266377 | Time: 2024-07-03 09:05:39.980026 | Command: /bgmi | Target: 20.198.104.226 | Port: 22547 | Time: 180
+Username: @nadan_bal
+Target: 20.198.104.226
+Port: 22547
+Time: 180
+
+UserID: 1436266377 | Time: 2024-07-04 09:16:24.082092 | Command: /bgmi | Target: 20.204.191.176 | Port: 10432 | Time: 180
+UserID: 1436266377 | Time: 2024-07-04 09:17:32.031278 | Command: /bgmi | Target: 20.204.191.176 | Port: 10432 | Time: 180
+Username: @nadan_bal
+Target: 20.204.191.176
+Port: 10432
+Time: 180
+
+UserID: 1436266377 | Time: 2024-07-04 10:33:12.111126 | Command: /bgmi | Target: 20.204.39.58 | Port: 12379 | Time: 180
+Username: @nadan_bal
+Target: 20.204.39.58
+Port: 12379
+Time: 180
+
+UserID: 1436266377 | Time: 2024-07-04 10:37:20.265372 | Command: /bgmi | Target: 20.204.17.82 | Port: 15382 | Time: 180
+UserID: 1436266377 | Time: 2024-07-04 10:37:40.235110 | Command: /bgmi | Target: 20.204.17.82 | Port: 15382 | Time: 180
+Username: @nadan_bal
+Target: 20.204.17.82
+Port: 15382
+Time: 180
+
+UserID: 1436266377 | Time: 2024-07-04 11:06:35.875692 | Command: /bgmi | Target: 4.213.65.132 | Port: 19724 | Time: 180
+Username: @nadan_bal
+Target: 4.213.65.132
+Port: 19724
+Time: 180
+
+UserID: 1436266377 | Time: 2024-07-04 11:07:12.473856 | Command: /bgmi | Target: 4.213.65.132 | Port: 19724 | Time: 180
+Username: @nadan_bal
+Target: 4.213.65.132
+Port: 19724
+Time: 180
+
+UserID: 1436266377 | Time: 2024-07-04 12:04:47.597147 | Command: /bgmi | Target: 20.198.111.211 | Port: 28245 | Time: 180
+Username: @nadan_bal
+Target: 20.198.111.211
+Port: 28245
+Time: 180
+
+UserID: 1436266377 | Time: 2024-07-04 12:12:12.081270 | Command: /bgmi | Target: 20.235.14.128 | Port: 13720 | Time: 180
+Username: @nadan_bal
+Target: 20.235.14.128
+Port: 13720
+Time: 180
+
+UserID: 1436266377 | Time: 2024-07-04 12:19:01.308611 | Command: /bgmi | Target: 4.213.64.122 | Port: 24376 | Time: 180
+Username: @nadan_bal
+Target: 4.213.64.122
+Port: 24376
+Time: 180
+
+UserID: 1436266377 | Time: 2024-07-04 12:19:30.510880 | Command: /bgmi | Target: 4.213.64.122 | Port: 24376 | Time: 180
+Username: @nadan_bal
+Target: 4.213.64.122
+Port: 24376
+Time: 180
+
+UserID: 1436266377 | Time: 2024-07-04 12:41:10.005383 | Command: /bgmi | Target: 4.213.64.122 | Port: 24094 | Time: 180
+Username: @nadan_bal
+Target: 4.213.64.122
+Port: 24094
+Time: 180
+
